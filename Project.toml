@@ -1,0 +1,7 @@
+name = "stress_strain"
+uuid = "6ad84bca-3bb4-409e-a669-13ac136d094c"
+authors = ["Cameron Irmas <cirmas@protonmail.com>"]
+version = "0.1.0"
+
+[deps]
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
